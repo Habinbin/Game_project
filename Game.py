@@ -112,5 +112,6 @@ P1.equipped(W1)
 M1.attack(P1)
 P1.equipped(A1)
 M1.attack(P1)
+print("3")
 
 
